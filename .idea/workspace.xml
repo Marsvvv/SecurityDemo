@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0552fe4-deb4-40e1-9ca8-6c810de772c8" name="Default Changelist" comment="" />
+    <list default="true" id="e0552fe4-deb4-40e1-9ca8-6c810de772c8" name="Default Changelist" comment="完成Spring Security quick start" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -26,6 +29,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1lRlj08XfPkA5HIiACbN9lfPjSf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,13 +47,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -72,12 +78,37 @@
       <updated>1607567916822</updated>
       <workItem from="1607567917998" duration="3604000" />
       <workItem from="1607582319630" duration="3975000" />
-      <workItem from="1607586773977" duration="4448000" />
+      <workItem from="1607586773977" duration="5920000" />
+      <workItem from="1607653395965" duration="2737000" />
     </task>
+    <task id="LOCAL-00001" summary="完成Spring Security quick start">
+      <created>1607655899239</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607655899239</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="完成Spring Security quick start" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成Spring Security quick start" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
