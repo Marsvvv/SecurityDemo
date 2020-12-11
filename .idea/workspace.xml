@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0552fe4-deb4-40e1-9ca8-6c810de772c8" name="Default Changelist" comment="完成Spring Security quick start" />
+    <list default="true" id="e0552fe4-deb4-40e1-9ca8-6c810de772c8" name="Default Changelist" comment="完成Spring Security quick start">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,18 +46,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -79,7 +79,8 @@
       <workItem from="1607567917998" duration="3604000" />
       <workItem from="1607582319630" duration="3975000" />
       <workItem from="1607586773977" duration="5920000" />
-      <workItem from="1607653395965" duration="2737000" />
+      <workItem from="1607653395965" duration="3139000" />
+      <workItem from="1607656550771" duration="2375000" />
     </task>
     <task id="LOCAL-00001" summary="完成Spring Security quick start">
       <created>1607655899239</created>
